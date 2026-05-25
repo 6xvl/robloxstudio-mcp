@@ -6,7 +6,7 @@
 
 [![Release](https://img.shields.io/github/v/release/6xvl/robloxstudio-mcp?style=for-the-badge&color=5865F2&label=Latest)](https://github.com/6xvl/robloxstudio-mcp/releases/latest)
 [![npm](https://img.shields.io/npm/v/@6xvl/robloxstudio-mcp?style=for-the-badge&color=cb3837&label=npm)](https://www.npmjs.com/package/@6xvl/robloxstudio-mcp)
-[![Downloads](https://img.shields.io/github/downloads/6xvl/robloxstudio-mcp/total?style=for-the-badge&color=a78bfa&label=Downloads)](https://github.com/6xvl/robloxstudio-mcp/releases)
+[![Downloads](https://img.shields.io/github/downloads/6xvl/robloxstudio-mcp/total?style=for-the-badge&color=a78bfa&label=Downloads&cacheSeconds=60)](https://github.com/6xvl/robloxstudio-mcp/releases)
 
 > This repository is the **public release channel** for the plugin.
 > It contains **only** the compiled, obfuscated `MCPPlugin-release.rbxmx` attached to each release tag.
